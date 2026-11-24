@@ -21,6 +21,58 @@
 
 ---
 
+## 📖 About GLX Remote Windows
+
+### Remote help that simply works
+
+The printer does not work, a program hangs, your mother cannot find her photos, a colleague needs PC support? With GLX Remote you connect to the other PC, running either the Client or the Quick Support version, and see its screen as if you were sitting in front of it. You control it with your own mouse and keyboard and solve the problem yourself instead of explaining it on the phone.
+
+The person you help only needs GLX Remote Client or GLX Remote Quick. Both are free. They tell you their GLX ID and password, confirm the connection, and you are in.
+
+### The session window
+
+Everything you need while helping is in a clear bar at the top of the session window.
+
+Display: change image quality and frames per second, pick the monitor you want on multi-monitor PCs, fit the picture or show it at original size, full screen.
+
+Keys: send key combinations such as Alt+Tab, the Windows key, Win+R, Win+E, Win+D or the Task Manager to the other PC with one click.
+
+Files: browse folders on the other PC, download and upload files with a progress display.
+
+Chat: as a sidebar next to the picture so you can write to each other along the way.
+
+Talk: speak to each other via microphone and speakers, no phone needed.
+
+Clipboard: copied text goes both ways if you like.
+
+### Screenshot tool with pens and more
+
+Want to capture an error? Just drag out an area, adjust it with the handles and mark what matters with arrows, frames, highlighter, free pen and coloured text. One click saves the picture straight to Documents\GLX Remote\Screenshots, under your own name, or sends it to the other side.
+
+### Info window on the other side
+
+On the PC you are helping, an info window shows your name, your PC, your GLX ID and how long the session has been running. There the other person can chat, switch on the microphone, send you files or a screenshot and end the connection at any time. So it is always clear who is connected.
+
+### Your own devices and unattended access
+
+Under My devices GLX Remote remembers every PC you have been connected to, with your own name such as "Mum's laptop" if you like. Store the password per device encrypted on your PC, and a single click connects.
+
+For your own computers there is unattended access: with a fixed password you connect without anyone having to click Allow.
+
+### Secure and under your control
+
+Every connection needs the GLX ID and password of the other PC. After five wrong passwords GLX Remote blocks further attempts for a few minutes. Saved passwords are encrypted with Windows protection and stay on your PC only.
+
+### In GLX design
+
+GLX Remote comes in 12 colour designs from GLX Neon to High Contrast, in German and English. The settings are clearly laid out with a menu on the left. The program finds new versions by itself and installs them with a few clicks if you like.
+
+### Licence
+
+Free for 14 days, then a one-time 39.99 euros via GLX token. No subscription, no ads. Receiving help stays free after the trial.
+
+---
+
 ## 📸 Overview & Screenshots
 
 ### 1️⃣ Main window
